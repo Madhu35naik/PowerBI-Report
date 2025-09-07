@@ -1,17 +1,19 @@
-✈️ Airline Passenger Satisfaction Dashboard
-📌 Overview
+✈️ *Airline Passenger Satisfaction Dashboard*
+
+
+📌 *Overview*
 This project analyzes passenger satisfaction data (from Maven Analytics) using Power BI.
 The goal is to identify factors influencing customer satisfaction and provide actionable insights for improving airline services.
 
-🗂️ Dataset
+🗂️ *Dataset*
 Source: Maven Analytics Data Playground
 
 Data includes passenger demographics, travel type, delays, service ratings, and satisfaction levels.
 
-📊 Dashboard Features
+📊 *Dashboard Features*
 KPIs: Total customers, average delays, service ratings, satisfaction index
 
-Visuals:
+*Visuals*:
 
 Customer demographics & travel type
 
@@ -23,23 +25,24 @@ Passenger satisfaction distribution
 
 Tools: Power BI, Power Query, DAX
 
-⚙️ Process
+⚙️ *Process*
 Data cleaning & transformation with Power Query
 
 KPI creation using DAX measures
 
 Interactive dashboard with multiple report views (Demographics, Age Groups, Ratings)
 
-🚀 Insights
+🚀 *Insights*
 Passenger satisfaction strongly correlates with service ratings (seat comfort, food, check-in).
 
 Business travel customers tend to show higher satisfaction compared to personal travel.
 
 Younger age groups report more mixed experiences compared to older passengers.
 
-🛠️ Tools & Technologies
+🛠️ *Tools & Technologies*
 Power BI (Dashboarding & Visualization)
 
 Power Query (ETL & Data Cleaning)
 
 DAX (Custom KPIs & Calculations)
+
