@@ -1,51 +1,36 @@
-✈️ *Airline Passenger Satisfaction Dashboard*
+# ✈️ Airline Passenger Satisfaction Dashboard  
+---
 
+## 📌 Overview  
+An **interactive Power BI dashboard** built to analyze airline passenger satisfaction using the Maven Analytics dataset. The project highlights how demographics, travel type, service quality, and delays impact customer experience, helping airlines improve service quality.  
 
-📌 *Overview*
+## 🗂️ Dataset  
+- Source: [Maven Analytics Data Playground] 
+- Contains passenger demographics, flight details, delays, service ratings, and satisfaction levels.  
 
+## 📊 Dashboard Highlights  
+- **KPIs:** Total passengers, average arrival & departure delays, service scores, satisfaction index  
+- **Visuals:**  
+  - Passenger demographics (gender, age groups, customer type)  
+  - Travel type distribution (business vs personal)  
+  - Service ratings (seat comfort, food, check-in, boarding, etc.)  
+  - Satisfaction levels across multiple dimensions  
 
-This project analyzes passenger satisfaction data (from Maven Analytics) using Power BI.
-The goal is to identify factors influencing customer satisfaction and provide actionable insights for improving airline services.
+## ⚙️ Process  
+1. Cleaned and transformed data with **Power Query**  
+2. Created KPIs and calculated measures using **DAX**  
+3. Designed an **interactive dashboard** with multiple report views  
+4. Delivered insights to identify **key drivers of satisfaction**  
 
-🗂️ *Dataset*
-Source: Maven Analytics Data Playground
+## 🚀 Key Insights  
+- Service quality factors (seat comfort, food & drink, check-in) strongly influence satisfaction  
+- Business travelers tend to report higher satisfaction than personal travelers  
+- Delays have a significant impact on overall passenger experience  
 
-Data includes passenger demographics, travel type, delays, service ratings, and satisfaction levels.
+## 🛠️ Tools & Technologies  
+- **Power BI** – Dashboard & Visualization  
+- **Power Query** – Data Cleaning & Transformation  
+- **DAX** – KPIs & Calculations  
 
-📊 *Dashboard Features*
-KPIs: Total customers, average delays, service ratings, satisfaction index
-
-*Visuals*:
-
-Customer demographics & travel type
-
-Age group analysis
-
-Service quality ratings (seat comfort, check-in, food, etc.)
-
-Passenger satisfaction distribution
-
-Tools: Power BI, Power Query, DAX
-
-⚙️ *Process*
-Data cleaning & transformation with Power Query
-
-KPI creation using DAX measures
-
-Interactive dashboard with multiple report views (Demographics, Age Groups, Ratings)
-
-🚀 *Insights*
-Passenger satisfaction strongly correlates with service ratings (seat comfort, food, check-in).
-
-Business travel customers tend to show higher satisfaction compared to personal travel.
-
-Younger age groups report more mixed experiences compared to older passengers.
-
-🛠️ *Tools & Technologies*
-Power BI (Dashboarding & Visualization)
-
-Power Query (ETL & Data Cleaning)
-
-DAX (Custom KPIs & Calculations)
-
-
+## 📷 Dashboard Preview  
+*(Add screenshot of your dashboard here)*  
