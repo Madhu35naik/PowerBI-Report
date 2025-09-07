@@ -32,5 +32,4 @@ An **interactive Power BI dashboard** built to analyze airline passenger satisfa
 - **Power Query** – Data Cleaning & Transformation  
 - **DAX** – KPIs & Calculations  
 
-## 📷 Dashboard Preview  
-*(Add screenshot of your dashboard here)*  
+
